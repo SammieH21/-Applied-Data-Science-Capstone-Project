@@ -1,2 +1,4 @@
 *.txt
 *.swp
+.gitignore
+.ipynb_checkpoints
