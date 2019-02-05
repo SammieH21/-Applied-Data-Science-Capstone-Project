@@ -4,3 +4,4 @@
 *.png
 Capstone\ Notes\ Folder
 .ipynb_checkpoints
+__pycache__
